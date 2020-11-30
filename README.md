@@ -1,2 +1,2 @@
 # redesigned-sniffle
-DRF project 
+Mini Social Network
